@@ -21,3 +21,5 @@ How regional precipitation generated<br />
 **Goal**<br />
 Can Produce a reasonable regional precipitation field<br />
 
+
+![rain](https://user-images.githubusercontent.com/71851976/144686062-7a6a16de-8657-46ec-8f39-129f740265f3.gif)
