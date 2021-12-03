@@ -12,7 +12,7 @@ MPAS is abbreviation of the Model for Prediction Across Scales<br />
 (image from:ECMWF.int)<br />
 
 **What is the "big" problem？**<br />
-Learning how to use MPAS model to process regional precipitation<br />
+How regional precipitation generated<br />
 
 **Related to CSCI596**<br />
 - The model envovles MPI programing
