@@ -16,5 +16,5 @@ Learning how to use MPAS model to process regional precipitation<br />
 - The model envovles MPI programing
 - The model running is based on GPU which is possible to accelerate the program 
 **Goal**<br />
-Can Produce a reasonable regional precipitation field
+Can Produce a reasonable regional precipitation field<br />
 
