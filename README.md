@@ -22,4 +22,5 @@ How regional precipitation generated<br />
 Can Produce a reasonable regional precipitation field<br />
 
 
-![rain](https://user-images.githubusercontent.com/71851976/144686062-7a6a16de-8657-46ec-8f39-129f740265f3.gif)
+![rain](https://user-images.githubusercontent.com/71851976/144686155-8f4c4ba1-7691-433d-a1be-1278f9d98152.jpg)
+
