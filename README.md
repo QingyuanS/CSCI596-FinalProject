@@ -7,7 +7,7 @@ Qingyuan Sun<br />
 MPAS is abbreviation of the Model for Prediction Across Scales<br />
 - A model for climate, regional climate and weather studies
 - Develop atmosphere, ocean and other eath -system simulation components
-- Feature in Voronoi meshes and C-grid discretization<br />
+
 ![parametrization_0](https://user-images.githubusercontent.com/71851976/144544384-dded6ee4-5b38-4763-b3e5-0733debb8842.png)
 (image from:ECMWF.int)<br />
 
@@ -17,6 +17,9 @@ How is regional precipitation in next month<br />
 **Related to CSCI596**<br />
 - The model envovles MPI programing
 - The model running is based on GPU which is possible to accelerate the program <br />
+
+**Source**
+From Los Alamos National Laboratory (COSIM) which is located in New Mexcio state<br />
 
 **Goal**<br />
 Can Produce a reasonable regional precipitation field<br />
