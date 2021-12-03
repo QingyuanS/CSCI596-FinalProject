@@ -2,7 +2,7 @@
 CSCI596 Final Project<br />
 Fall 2021<br />
 Qingyuan Sun<br />
-# Simulate atmosphere Like Rainfall by using MPAS model
+# Simulate Regional Rainfall by using MPAS model
 **What is MPAS**<br />
 MPAS is abbreviation of the Model for Prediction Across Scales<br />
 - A model for climate, regional climate and weather studies
@@ -12,4 +12,9 @@ MPAS is abbreviation of the Model for Prediction Across Scales<br />
 (image from:ECMWF.int)<br />
 **What is the "big" problem？**<br />
 Learning how to use MPAS model to process regional precipitation<br />
+**Related to CSCI596**<br />
+- The model envovles MPI programing
+- The model running is based on GPU which is possible to accelerate the program 
+**Goal**<br />
+Can Produce a reasonable regional precipitation field
 
