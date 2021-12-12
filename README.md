@@ -2,9 +2,9 @@
 CSCI596 Final Project<br />
 Fall 2021<br />
 Qingyuan Sun<br />
-# Simulate Regional Rainfall by using MPAS model
-**What is MPAS**<br />
-MPAS is abbreviation of the Model for Prediction Across Scales<br />
+# Simulate Regional Rainfall by using WRF model
+**What is WRF**<br />
+WRF is abbreviation of WEATHER RESEARCH AND FORECASTING MODEL<br />
 - A model for climate, regional climate and weather studies
 - Develop atmosphere, ocean and other eath -system simulation components
 
