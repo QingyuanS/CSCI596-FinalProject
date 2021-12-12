@@ -137,4 +137,4 @@ the wrfrst_dxx_ file is similar to the game save, and the model can continue to 
 # Final Result
 
 
-![Test Image 1](rain_assump.jpg)
+![Test Image 1](pic/rain_assump.jpg)
