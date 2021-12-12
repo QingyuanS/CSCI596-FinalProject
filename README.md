@@ -138,3 +138,8 @@ the wrfrst_dxx_ file is similar to the game save, and the model can continue to 
 
 
 ![Test Image 1](pic/rain_assump.jpg)
+
+# Reference
+Skamarock, W. C., J. B. Klemp, J. Dudhia, D. O. Gill, Z. Liu, J. Berner, W. Wang, J. G. Powers, M. G. Duda, D. M. Barker, and X.-Y. Huang, 2019: A Description of the Advanced Research WRF Version 4. NCAR Tech. Note NCAR/TN-556+STR, 145 pp.
+doi:10.5065/1dfh-6p97
+
