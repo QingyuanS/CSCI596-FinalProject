@@ -2,7 +2,7 @@
 CSCI596 Final Project<br />
 Fall 2021<br />
 Qingyuan Sun<br />
-# Simulate Regional Rainfall by using WRF model
+# Simulate Rainfall by using WRF model
 **What is WRF**<br />
 WRF is abbreviation of WEATHER RESEARCH AND FORECASTING MODEL<br />
 - A model for climate, regional climate and weather studies
@@ -22,7 +22,7 @@ How is regional precipitation in next month<br />
 From Los Alamos National Laboratory (COSIM) which is located in New Mexcio state<br />
 
 **Goal**<br />
-Can Produce a reasonable regional precipitation field<br />
+Can Produce a reasonable precipitation field<br />
 
 
 ![rain](https://user-images.githubusercontent.com/71851976/144686155-8f4c4ba1-7691-433d-a1be-1278f9d98152.jpg)
