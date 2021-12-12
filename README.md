@@ -133,5 +133,6 @@ After editing namelist.wps, you need to execute the initialization program real.
 Among them, wrfinput_dxx is the state at the initial moment, wrfbdy_d01 is the side boundary state of all simulation moments in the root zone (zone 1). <br />
 Then you can run the main program wrf.exe, and after the run, you will get the model output file wrfout_dxx_* file and the archive file ( restart file) wrfrst_dxx_* The wrfout_dxx_ file saves the atmospheric state simulated by the model at each moment; <br />
 the wrfrst_dxx_ file is similar to the game save, and the model can continue to simulate forward based on this save.<br />
+#Final Result
 
 
